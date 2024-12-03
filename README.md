@@ -23,6 +23,8 @@ The approach was to go array `recursively` and return result by providing **reve
 
 In `./Option A/Haskell/main.hs`, I added implementation that reverses array and explanation of every single code.
 
+For testing this code, you can use https://www.tutorialspoint.com/compile_haskell_online.php website.
+
 Option B:
 ---------
 
